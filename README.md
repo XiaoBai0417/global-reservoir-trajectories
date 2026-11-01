@@ -2,7 +2,7 @@
 
 This lightweight bundle contains 100 high-quality reservoir cases from six inhabited continents, their point locations, monthly area data and five short Python examples corresponding to Figs. 1–5.
 
-The examples demonstrate the analysis steps on a small sample.
+The examples demonstrate the analysis steps on a small sample. They do not reproduce the manuscript's global statistics or replace the full figure-generation pipeline.
 
 ## Files
 
@@ -17,7 +17,7 @@ The examples demonstrate the analysis steps on a small sample.
 
 The candidate pool required complete annual means for 2017–2025, at least 60 valid monthly observations, valid coordinates and a positive 2017–2019 baseline. For the trajectory examples, cases also required a classified trajectory with high confidence (≥0.80). This yielded 207,361 eligible cases across Africa, Asia, Europe, North America, Oceania and South America.
 
-The 100 cases were selected deterministically and stratified across the six continents (16–17 cases each), size classes and available trajectory classes. Size-class counts are 30 Tiny, 30 Small, 25 Medium and 15 Large. This is an illustrative, purposive sample, not a probability sample.
+The 100 cases were selected deterministically (seed 20261101) and stratified across the six continents (16–17 cases each), size classes and available trajectory classes. Size-class counts are 30 Tiny, 30 Small, 25 Medium and 15 Large. This is an illustrative, purposive sample, not a probability sample.
 
 Size classes follow the inventory polygon-area field used by the analysis code: Tiny (<0.1 km²), Small (0.1 to <10 km²), Medium (10 to <100 km²) and Large (≥100 km²). This is inventory polygon area, not Sentinel-1 mean surface-water area.
 
@@ -48,3 +48,7 @@ Run a script from this directory, for example:
 Each script saves one PNG in outputs/. Fig. 1–3 use complete years through 2025; Fig. 4 uses monthly data through May 2026; Fig. 5 uses complete years through 2025.
 
 The files in code/source_methods/ are supplementary examples and are not imported by the five case scripts. Their optional Python dependencies are listed in code/source_methods/requirements-source-methods.txt. The Earth Engine scripts require access to the referenced reservoir asset; the POI script requires an AMap API key.
+
+## Data and sharing note
+
+The monthly values are processed Sentinel-1-derived area estimates; locations and inventory areas originate from a harmonized reservoir inventory. Raw satellite scenes, reservoir polygons and the full global time series are not included. The supplied source folder had no LICENSE/COPYING file, so redistribution rights for those four additional files remain to be confirmed. Confirm attribution and redistribution permissions for inventory-derived fields and add the authors' chosen code and data licences before public release.
