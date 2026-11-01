@@ -48,7 +48,3 @@ Run a script from this directory, for example:
 Each script saves one PNG in outputs/. Fig. 1–3 use complete years through 2025; Fig. 4 uses monthly data through May 2026; Fig. 5 uses complete years through 2025.
 
 The files in code/source_methods/ are supplementary examples and are not imported by the five case scripts. Their optional Python dependencies are listed in code/source_methods/requirements-source-methods.txt. The Earth Engine scripts require access to the referenced reservoir asset; the POI script requires an AMap API key.
-
-## Data and sharing note
-
-The monthly values are processed Sentinel-1-derived area estimates; locations and inventory areas originate from a harmonized reservoir inventory. Raw satellite scenes, reservoir polygons and the full global time series are not included. The supplied source folder had no LICENSE/COPYING file, so redistribution rights for those four additional files remain to be confirmed. Confirm attribution and redistribution permissions for inventory-derived fields and add the authors' chosen code and data licences before public release.
