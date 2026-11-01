@@ -2,7 +2,7 @@
 
 This lightweight bundle contains 100 high-quality reservoir cases from six inhabited continents, their point locations, monthly area data and five short Python examples corresponding to Figs. 1–5.
 
-The examples demonstrate the analysis steps on a small sample. They do not reproduce the manuscript's global statistics or replace the full figure-generation pipeline.
+The examples demonstrate the analysis steps on a small sample.
 
 ## Files
 
@@ -17,7 +17,7 @@ The examples demonstrate the analysis steps on a small sample. They do not repro
 
 The candidate pool required complete annual means for 2017–2025, at least 60 valid monthly observations, valid coordinates and a positive 2017–2019 baseline. For the trajectory examples, cases also required a classified trajectory with high confidence (≥0.80). This yielded 207,361 eligible cases across Africa, Asia, Europe, North America, Oceania and South America.
 
-The 100 cases were selected deterministically (seed 20261101) and stratified across the six continents (16–17 cases each), size classes and available trajectory classes. Size-class counts are 30 Tiny, 30 Small, 25 Medium and 15 Large. This is an illustrative, purposive sample, not a probability sample.
+The 100 cases were selected deterministically and stratified across the six continents (16–17 cases each), size classes and available trajectory classes. Size-class counts are 30 Tiny, 30 Small, 25 Medium and 15 Large. This is an illustrative, purposive sample, not a probability sample.
 
 Size classes follow the inventory polygon-area field used by the analysis code: Tiny (<0.1 km²), Small (0.1 to <10 km²), Medium (10 to <100 km²) and Large (≥100 km²). This is inventory polygon area, not Sentinel-1 mean surface-water area.
 
