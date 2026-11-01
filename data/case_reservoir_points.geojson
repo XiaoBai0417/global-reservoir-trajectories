@@ -1,0 +1,2106 @@
+{
+  "type": "FeatureCollection",
+  "name": "global_case_reservoir_points",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.128348204582135,
+          -34.070960734439026
+        ]
+      },
+      "properties": {
+        "case_id": "G001",
+        "source_id": 172879,
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "continent": "Africa",
+        "size_class": "Tiny",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0148757063106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.19265835296475,
+          -32.65861720291313
+        ]
+      },
+      "properties": {
+        "case_id": "G002",
+        "source_id": 187057,
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "continent": "Africa",
+        "size_class": "Tiny",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0818214926749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1615374224261545,
+          5.601025277602288
+        ]
+      },
+      "properties": {
+        "case_id": "G003",
+        "source_id": 215790,
+        "country": "Nigeria",
+        "iso3": "NGA",
+        "continent": "Africa",
+        "size_class": "Tiny",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 0.97,
+        "inventory_polygon_area_km2": 0.0452185363159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.972653710126067,
+          37.0870824862738
+        ]
+      },
+      "properties": {
+        "case_id": "G004",
+        "source_id": 446395,
+        "country": "Tunisia",
+        "iso3": "TUN",
+        "continent": "Africa",
+        "size_class": "Tiny",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0200476205927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.156746755774062,
+          -26.920391262838915
+        ]
+      },
+      "properties": {
+        "case_id": "G005",
+        "source_id": 198206,
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "continent": "Africa",
+        "size_class": "Small",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.172781375748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.321888126316583,
+          -32.750487979246174
+        ]
+      },
+      "properties": {
+        "case_id": "G006",
+        "source_id": 186815,
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "continent": "Africa",
+        "size_class": "Small",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.714059291667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.573980933871024,
+          -30.49267771990526
+        ]
+      },
+      "properties": {
+        "case_id": "G007",
+        "source_id": 190672,
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "continent": "Africa",
+        "size_class": "Small",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.152484579379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.450067865765686,
+          -24.258450096196615
+        ]
+      },
+      "properties": {
+        "case_id": "G008",
+        "source_id": 199956,
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "continent": "Africa",
+        "size_class": "Small",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.429728283966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2319038965362,
+          -26.060446348752865
+        ]
+      },
+      "properties": {
+        "case_id": "G009",
+        "source_id": 199117,
+        "country": "eSwatini",
+        "iso3": "SWZ",
+        "continent": "Africa",
+        "size_class": "Medium",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 12.1400709844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.539645073459624,
+          -1.8391658179818489
+        ]
+      },
+      "properties": {
+        "case_id": "G010",
+        "source_id": 287605,
+        "country": "Gabon",
+        "iso3": "GAB",
+        "continent": "Africa",
+        "size_class": "Medium",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 45.9773676266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.710806767660195,
+          -31.504626596879255
+        ]
+      },
+      "properties": {
+        "case_id": "G011",
+        "source_id": 189136,
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "continent": "Africa",
+        "size_class": "Medium",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 22.6072050955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.449570333155134,
+          32.00954109560799
+        ]
+      },
+      "properties": {
+        "case_id": "G012",
+        "source_id": 363737,
+        "country": "Morocco",
+        "iso3": "MAR",
+        "continent": "Africa",
+        "size_class": "Medium",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 10.6159666803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.344060461685645,
+          6.171189686668931
+        ]
+      },
+      "properties": {
+        "case_id": "G013",
+        "source_id": 216605,
+        "country": "Cameroon",
+        "iso3": "CMR",
+        "continent": "Africa",
+        "size_class": "Large",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 338.603824612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.03218700686057,
+          14.127423257903654
+        ]
+      },
+      "properties": {
+        "case_id": "G014",
+        "source_id": 426314,
+        "country": "Sudan",
+        "iso3": "SDN",
+        "continent": "Africa",
+        "size_class": "Large",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 303.836889181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.42794579740285,
+          -3.7003726322661206
+        ]
+      },
+      "properties": {
+        "case_id": "G015",
+        "source_id": 206432,
+        "country": "United Republic of Tanzania",
+        "iso3": "TZA",
+        "continent": "Africa",
+        "size_class": "Large",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 110.317969528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.226670416496937,
+          16.398930226593244
+        ]
+      },
+      "properties": {
+        "case_id": "G016",
+        "source_id": 347034,
+        "country": "Senegal",
+        "iso3": "SEN",
+        "continent": "Africa",
+        "size_class": "Large",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 286.565708149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7083892068097,
+          -30.63435848350903
+        ]
+      },
+      "properties": {
+        "case_id": "G017",
+        "source_id": 233470,
+        "country": "South Africa",
+        "iso3": "ZAF",
+        "continent": "Africa",
+        "size_class": "Large",
+        "trajectory_class": "Stable",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 321.618254035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.2196710526751,
+          22.288753289369748
+        ]
+      },
+      "properties": {
+        "case_id": "G018",
+        "source_id": 70354,
+        "country": "China",
+        "iso3": "CHN",
+        "continent": "Asia",
+        "size_class": "Tiny",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0544640350875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.66121484361898,
+          30.311792968846554
+        ]
+      },
+      "properties": {
+        "case_id": "G019",
+        "source_id": 82549,
+        "country": "China",
+        "iso3": "CHN",
+        "continent": "Asia",
+        "size_class": "Tiny",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0427917720286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.84724642854158,
+          36.826808333662306
+        ]
+      },
+      "properties": {
+        "case_id": "G020",
+        "source_id": 62709,
+        "country": "China",
+        "iso3": "CHN",
+        "continent": "Asia",
+        "size_class": "Tiny",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.065094571892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.4277812499259,
+          28.79679166665528
+        ]
+      },
+      "properties": {
+        "case_id": "G021",
+        "source_id": 47953,
+        "country": "China",
+        "iso3": "CHN",
+        "continent": "Asia",
+        "size_class": "Tiny",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 0.81,
+        "inventory_polygon_area_km2": 0.0325786909502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.52887313306138,
+          36.915214186226244
+        ]
+      },
+      "properties": {
+        "case_id": "G022",
+        "source_id": 79513,
+        "country": "China",
+        "iso3": "CHN",
+        "continent": "Asia",
+        "size_class": "Small",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 1.700048491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.8866078010972,
+          35.420788584883574
+        ]
+      },
+      "properties": {
+        "case_id": "G023",
+        "source_id": 67178,
+        "country": "China",
+        "iso3": "CHN",
+        "continent": "Asia",
+        "size_class": "Small",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.284760051688
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.07524820824199,
+          37.64069871309515
+        ]
+      },
+      "properties": {
+        "case_id": "G024",
+        "source_id": 35992,
+        "country": "China",
+        "iso3": "CHN",
+        "continent": "Asia",
+        "size_class": "Small",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.105499794688
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.73344725774162,
+          8.474718752701527
+        ]
+      },
+      "properties": {
+        "case_id": "G025",
+        "source_id": 219135,
+        "country": "Sri Lanka",
+        "iso3": "LKA",
+        "continent": "Asia",
+        "size_class": "Small",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.221151227195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.06584088097611,
+          15.583678126862056
+        ]
+      },
+      "properties": {
+        "case_id": "G026",
+        "source_id": 426878,
+        "country": "India",
+        "iso3": "IND",
+        "continent": "Asia",
+        "size_class": "Medium",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 17.3415815674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.129699850878396,
+          30.65755406884883
+        ]
+      },
+      "properties": {
+        "case_id": "G027",
+        "source_id": 441795,
+        "country": "Iran",
+        "iso3": "IRN",
+        "continent": "Asia",
+        "size_class": "Medium",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 16.187289637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.00356767722033,
+          30.909200719558292
+        ]
+      },
+      "properties": {
+        "case_id": "G028",
+        "source_id": 68081,
+        "country": "China",
+        "iso3": "CHN",
+        "continent": "Asia",
+        "size_class": "Medium",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 14.7281750026
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.576975605665,
+          30.54338650118679
+        ]
+      },
+      "properties": {
+        "case_id": "G029",
+        "source_id": 28054,
+        "country": "China",
+        "iso3": "CHN",
+        "continent": "Asia",
+        "size_class": "Medium",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 27.5514094387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.628944630874656,
+          32.75381938337507
+        ]
+      },
+      "properties": {
+        "case_id": "G030",
+        "source_id": 442946,
+        "country": "Iraq",
+        "iso3": "IRQ",
+        "continent": "Asia",
+        "size_class": "Large",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 1333.2070833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.92885379826296,
+          21.87175777361227
+        ]
+      },
+      "properties": {
+        "case_id": "G031",
+        "source_id": 508788,
+        "country": "Vietnam",
+        "iso3": "VNM",
+        "continent": "Asia",
+        "size_class": "Large",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 171.339732025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.5203437728191,
+          26.425870267066653
+        ]
+      },
+      "properties": {
+        "case_id": "G032",
+        "source_id": 26893,
+        "country": "China",
+        "iso3": "CHN",
+        "continent": "Asia",
+        "size_class": "Large",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 100.676511424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.36239770408872,
+          5.509997298394817
+        ]
+      },
+      "properties": {
+        "case_id": "G033",
+        "source_id": 303072,
+        "country": "Malaysia",
+        "iso3": "MYS",
+        "continent": "Asia",
+        "size_class": "Large",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 169.061270453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.71483520067335,
+          5.04577262130706
+        ]
+      },
+      "properties": {
+        "case_id": "G034",
+        "source_id": 215694,
+        "country": "Malaysia",
+        "iso3": "MYS",
+        "continent": "Asia",
+        "size_class": "Large",
+        "trajectory_class": "Stable",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 591.151332682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.982967054521396,
+          38.735659371828675
+        ]
+      },
+      "properties": {
+        "case_id": "G035",
+        "source_id": 389455,
+        "country": "Portugal",
+        "iso3": "PRT",
+        "continent": "Europe",
+        "size_class": "Tiny",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.00160511729037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.481362496941706,
+          37.85742448541323
+        ]
+      },
+      "properties": {
+        "case_id": "G036",
+        "source_id": 448547,
+        "country": "Italy",
+        "iso3": "ITA",
+        "continent": "Europe",
+        "size_class": "Tiny",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 0.97,
+        "inventory_polygon_area_km2": 0.00209321907468
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43013636400466,
+          40.696490246767
+        ]
+      },
+      "properties": {
+        "case_id": "G037",
+        "source_id": 397255,
+        "country": "Portugal",
+        "iso3": "PRT",
+        "continent": "Europe",
+        "size_class": "Tiny",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0408509461003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.805996117180669,
+          37.03231007031357
+        ]
+      },
+      "properties": {
+        "case_id": "G038",
+        "source_id": 370804,
+        "country": "Portugal",
+        "iso3": "PRT",
+        "continent": "Europe",
+        "size_class": "Tiny",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 0.81,
+        "inventory_polygon_area_km2": 0.00890660134773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.53809036930714,
+          48.963342946016965
+        ]
+      },
+      "properties": {
+        "case_id": "G039",
+        "source_id": 548830,
+        "country": "Czechia",
+        "iso3": "CZE",
+        "continent": "Europe",
+        "size_class": "Tiny",
+        "trajectory_class": "Persistent loss",
+        "trajectory_confidence": 0.98,
+        "inventory_polygon_area_km2": 0.00537797214399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.482708400494765,
+          37.86086786751975
+        ]
+      },
+      "properties": {
+        "case_id": "G040",
+        "source_id": 448610,
+        "country": "Italy",
+        "iso3": "ITA",
+        "continent": "Europe",
+        "size_class": "Tiny",
+        "trajectory_class": "Stable",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.00185635237845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.15244882120489,
+          49.260686254007084
+        ]
+      },
+      "properties": {
+        "case_id": "G041",
+        "source_id": 557284,
+        "country": "Ukraine",
+        "iso3": "UKR",
+        "continent": "Europe",
+        "size_class": "Small",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.23288075604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.20474463316535,
+          48.25234458647253
+        ]
+      },
+      "properties": {
+        "case_id": "G042",
+        "source_id": 542333,
+        "country": "Ukraine",
+        "iso3": "UKR",
+        "continent": "Europe",
+        "size_class": "Small",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.102742830724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.967560488298375,
+          51.96210151863325
+        ]
+      },
+      "properties": {
+        "case_id": "G043",
+        "source_id": 611128,
+        "country": "Russia",
+        "iso3": "RUS",
+        "continent": "Europe",
+        "size_class": "Small",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.202234363795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.716275810915707,
+          38.045681226346844
+        ]
+      },
+      "properties": {
+        "case_id": "G044",
+        "source_id": 449198,
+        "country": "Greece",
+        "iso3": "GRC",
+        "continent": "Europe",
+        "size_class": "Small",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 1.58652603914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.787071657425959,
+          54.63528650248371
+        ]
+      },
+      "properties": {
+        "case_id": "G045",
+        "source_id": 424368,
+        "country": "United Kingdom",
+        "iso3": "GBR",
+        "continent": "Europe",
+        "size_class": "Small",
+        "trajectory_class": "Persistent loss",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.135716507778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.044944768365268,
+          58.82747880676005
+        ]
+      },
+      "properties": {
+        "case_id": "G046",
+        "source_id": 627586,
+        "country": NaN,
+        "iso3": "NOR",
+        "continent": "Europe",
+        "size_class": "Medium",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 15.907683038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.52055847068331,
+          41.63281024033798
+        ]
+      },
+      "properties": {
+        "case_id": "G047",
+        "source_id": 454846,
+        "country": "Bulgaria",
+        "iso3": "BGR",
+        "continent": "Europe",
+        "size_class": "Medium",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 21.5588341562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.251624929369892,
+          41.98813249113003
+        ]
+      },
+      "properties": {
+        "case_id": "G048",
+        "source_id": 455976,
+        "country": "Spain",
+        "iso3": "ESP",
+        "continent": "Europe",
+        "size_class": "Medium",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 14.9655584521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.58015889935284,
+          49.34038896891269
+        ]
+      },
+      "properties": {
+        "case_id": "G049",
+        "source_id": 567052,
+        "country": "Ukraine",
+        "iso3": "UKR",
+        "continent": "Europe",
+        "size_class": "Medium",
+        "trajectory_class": "Persistent loss",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 85.7682875197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.180887702095959,
+          38.890431953131
+        ]
+      },
+      "properties": {
+        "case_id": "G050",
+        "source_id": 392109,
+        "country": "Spain",
+        "iso3": "ESP",
+        "continent": "Europe",
+        "size_class": "Large",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 129.68675624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3839262683797235,
+          38.37464308697152
+        ]
+      },
+      "properties": {
+        "case_id": "G051",
+        "source_id": 390681,
+        "country": "Portugal",
+        "iso3": "PRT",
+        "continent": "Europe",
+        "size_class": "Large",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 335.305944693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.68766978269345,
+          35.65038045674729
+        ]
+      },
+      "properties": {
+        "case_id": "G052",
+        "source_id": 327882,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Tiny",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.00421391665413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.29008225453737,
+          36.09121041073766
+        ]
+      },
+      "properties": {
+        "case_id": "G053",
+        "source_id": 328782,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Tiny",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0403798371225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15263064273512,
+          42.17044126077732
+        ]
+      },
+      "properties": {
+        "case_id": "G054",
+        "source_id": 405373,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Tiny",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0362343601367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.92666189195458,
+          32.39685659468661
+        ]
+      },
+      "properties": {
+        "case_id": "G055",
+        "source_id": 364301,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Tiny",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0295987069727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13512377914579,
+          40.29249835485813
+        ]
+      },
+      "properties": {
+        "case_id": "G056",
+        "source_id": 395955,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Tiny",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0379809447893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.97110035124948,
+          48.748127420083684
+        ]
+      },
+      "properties": {
+        "case_id": "G057",
+        "source_id": 415689,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Tiny",
+        "trajectory_class": "Persistent loss",
+        "trajectory_confidence": 0.98,
+        "inventory_polygon_area_km2": 0.0382390699614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47716724689985,
+          34.66662354190316
+        ]
+      },
+      "properties": {
+        "case_id": "G058",
+        "source_id": 366260,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Tiny",
+        "trajectory_class": "Stable",
+        "trajectory_confidence": 0.84,
+        "inventory_polygon_area_km2": 0.0162099051721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.88153526878042,
+          48.15452461038703
+        ]
+      },
+      "properties": {
+        "case_id": "G059",
+        "source_id": 415362,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Small",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 1.82441974876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94241027982441,
+          34.29460233710166
+        ]
+      },
+      "properties": {
+        "case_id": "G060",
+        "source_id": 324582,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Small",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.282706571809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9394197548659,
+          40.276982838024374
+        ]
+      },
+      "properties": {
+        "case_id": "G061",
+        "source_id": 337276,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Small",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.131481405202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.18895983075998,
+          37.715827461128235
+        ]
+      },
+      "properties": {
+        "case_id": "G062",
+        "source_id": 376544,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Small",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 5.46295290583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.51240899979875,
+          29.315518863246368
+        ]
+      },
+      "properties": {
+        "case_id": "G063",
+        "source_id": 310254,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Small",
+        "trajectory_class": "Persistent loss",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.129385268044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.65427665163135,
+          42.93393432028753
+        ]
+      },
+      "properties": {
+        "case_id": "G064",
+        "source_id": 408874,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Small",
+        "trajectory_class": "Stable",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 2.98223865678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.08114592153042,
+          27.237152055765012
+        ]
+      },
+      "properties": {
+        "case_id": "G065",
+        "source_id": 308852,
+        "country": "Mexico",
+        "iso3": "MEX",
+        "continent": "North America",
+        "size_class": "Medium",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 15.3057789785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.838166607042,
+          27.971120098334254
+        ]
+      },
+      "properties": {
+        "case_id": "G066",
+        "source_id": 350743,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Medium",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 18.1802373359
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9570788418465,
+          29.57858411369684
+        ]
+      },
+      "properties": {
+        "case_id": "G067",
+        "source_id": 310476,
+        "country": "United States of America",
+        "iso3": "USA",
+        "continent": "North America",
+        "size_class": "Medium",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 22.2965557521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1564798235643,
+          21.702742899569692
+        ]
+      },
+      "properties": {
+        "case_id": "G068",
+        "source_id": 307144,
+        "country": "Mexico",
+        "iso3": "MEX",
+        "continent": "North America",
+        "size_class": "Medium",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 40.6841281199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.89499874895117,
+          -32.835280177707624
+        ]
+      },
+      "properties": {
+        "case_id": "G069",
+        "source_id": 186278,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Tiny",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.00114670736243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6503057391767,
+          -29.799955654066423
+        ]
+      },
+      "properties": {
+        "case_id": "G070",
+        "source_id": 192944,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Tiny",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0108710518189
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6368872545465,
+          -29.43729920918994
+        ]
+      },
+      "properties": {
+        "case_id": "G071",
+        "source_id": 194224,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Tiny",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.00180577613843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.22798444154617,
+          -43.38838518169169
+        ]
+      },
+      "properties": {
+        "case_id": "G072",
+        "source_id": 141401,
+        "country": "New Zealand",
+        "iso3": "NZL",
+        "continent": "Oceania",
+        "size_class": "Tiny",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0793910225696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7217613976985,
+          -32.777330403025495
+        ]
+      },
+      "properties": {
+        "case_id": "G073",
+        "source_id": 186686,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Tiny",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.00396218715229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.09090828615305,
+          -30.958548697169665
+        ]
+      },
+      "properties": {
+        "case_id": "G074",
+        "source_id": 189725,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Tiny",
+        "trajectory_class": "Persistent loss",
+        "trajectory_confidence": 0.94,
+        "inventory_polygon_area_km2": 0.00543706834611
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8769409926868,
+          -17.398140170167846
+        ]
+      },
+      "properties": {
+        "case_id": "G075",
+        "source_id": 203447,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Tiny",
+        "trajectory_class": "Stable",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0304433454623
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0777255706928,
+          -34.39263955840506
+        ]
+      },
+      "properties": {
+        "case_id": "G076",
+        "source_id": 168561,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Small",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.132464420749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.03578430216376,
+          -28.416297660197348
+        ]
+      },
+      "properties": {
+        "case_id": "G077",
+        "source_id": 196884,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Small",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.917511467246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.46502201913242,
+          -26.9515935891124
+        ]
+      },
+      "properties": {
+        "case_id": "G078",
+        "source_id": 198189,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Small",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 1.17848262428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.44622473849537,
+          -27.42746666188378
+        ]
+      },
+      "properties": {
+        "case_id": "G079",
+        "source_id": 197929,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Small",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 4.40094410565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.85159407342218,
+          -34.14645143381615
+        ]
+      },
+      "properties": {
+        "case_id": "G080",
+        "source_id": 172380,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Medium",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 15.8685730829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.295623876169,
+          -44.62005545511735
+        ]
+      },
+      "properties": {
+        "case_id": "G081",
+        "source_id": 140968,
+        "country": "New Zealand",
+        "iso3": "NZL",
+        "continent": "Oceania",
+        "size_class": "Medium",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 27.0780703316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8966893527714,
+          -27.262687908699736
+        ]
+      },
+      "properties": {
+        "case_id": "G082",
+        "source_id": 198064,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Medium",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 17.5717806848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.01526516483403,
+          -32.06195144121253
+        ]
+      },
+      "properties": {
+        "case_id": "G083",
+        "source_id": 188194,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Medium",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 28.5506881092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.7692820223607,
+          -16.31622194422248
+        ]
+      },
+      "properties": {
+        "case_id": "G084",
+        "source_id": 204280,
+        "country": "Australia",
+        "iso3": "AUS",
+        "continent": "Oceania",
+        "size_class": "Large",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 1137.27484824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.85061862330514,
+          -24.203007767675018
+        ]
+      },
+      "properties": {
+        "case_id": "G085",
+        "source_id": 110268,
+        "country": "Argentina",
+        "iso3": "ARG",
+        "continent": "South America",
+        "size_class": "Tiny",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.00555900929164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.79112269122479,
+          -8.410880003790155
+        ]
+      },
+      "properties": {
+        "case_id": "G086",
+        "source_id": 128394,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Tiny",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.0250334004867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.027204617903855,
+          -29.822896895221714
+        ]
+      },
+      "properties": {
+        "case_id": "G087",
+        "source_id": 104820,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Small",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 1.74028221237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.06316587342499,
+          -8.019540376565152
+        ]
+      },
+      "properties": {
+        "case_id": "G088",
+        "source_id": 128795,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Small",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.809400262543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.52244231757034,
+          -10.125021876052411
+        ]
+      },
+      "properties": {
+        "case_id": "G089",
+        "source_id": 127802,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Small",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.331633986728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.26114732754819,
+          -6.823602226512532
+        ]
+      },
+      "properties": {
+        "case_id": "G090",
+        "source_id": 133297,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Small",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.525777374851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.26479099240838,
+          -2.600030344303646
+        ]
+      },
+      "properties": {
+        "case_id": "G091",
+        "source_id": 138904,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Small",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.456175565546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.448354847123916,
+          -7.093010375367531
+        ]
+      },
+      "properties": {
+        "case_id": "G092",
+        "source_id": 131806,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Small",
+        "trajectory_class": "Persistent loss",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 0.149206098913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.317031183776336,
+          -13.397226382494143
+        ]
+      },
+      "properties": {
+        "case_id": "G093",
+        "source_id": 125921,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Small",
+        "trajectory_class": "Stable",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 1.95534462504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.557967759417835,
+          -4.086577621731487
+        ]
+      },
+      "properties": {
+        "case_id": "G094",
+        "source_id": 137663,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Medium",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 43.1003203955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.997180300528214,
+          -6.253527604507424
+        ]
+      },
+      "properties": {
+        "case_id": "G095",
+        "source_id": 134795,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Medium",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 61.3855207667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.74741098691692,
+          -10.623599005018342
+        ]
+      },
+      "properties": {
+        "case_id": "G096",
+        "source_id": 127682,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Medium",
+        "trajectory_class": "Gain-reversal",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 11.3093642368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.999886047142155,
+          -5.365066102680735
+        ]
+      },
+      "properties": {
+        "case_id": "G097",
+        "source_id": 136344,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Medium",
+        "trajectory_class": "Persistent gain",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 93.7314319881
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.28188268069647,
+          -36.700615926442076
+        ]
+      },
+      "properties": {
+        "case_id": "G098",
+        "source_id": 98415,
+        "country": "Chile",
+        "iso3": "CHL",
+        "continent": "South America",
+        "size_class": "Medium",
+        "trajectory_class": "Persistent loss",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 17.4754602865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.65979860868172,
+          -9.682831424066213
+        ]
+      },
+      "properties": {
+        "case_id": "G099",
+        "source_id": 128182,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Large",
+        "trajectory_class": "Recurrent/reversible",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 3150.36156703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.91369888753741,
+          -5.788999680837266
+        ]
+      },
+      "properties": {
+        "case_id": "G100",
+        "source_id": 136110,
+        "country": "Brazil",
+        "iso3": "BRA",
+        "continent": "South America",
+        "size_class": "Large",
+        "trajectory_class": "Loss-recovery",
+        "trajectory_confidence": 1.0,
+        "inventory_polygon_area_km2": 114.777575481
+      }
+    }
+  ]
+}
